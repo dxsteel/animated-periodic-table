@@ -16,6 +16,7 @@ background: #222831;
     position: relative;
     border-radius: 5px;
     margin-bottom: 5vw;
+    filter: drop-shadow(0 0 5px #fff) drop-shadow(0 0 15px #fff);
 }
 
 .element-name
@@ -36,5 +37,6 @@ background: #222831;
 {
     display: flex;
     justify-content: center;
+    margin-top: 25px;
     filter: drop-shadow(0 0 15px #fff) drop-shadow(0 0 35px #fff);
 }
